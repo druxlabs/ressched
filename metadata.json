@@ -1,0 +1,5 @@
+{
+  "name": "Ophthalmology Resident Schedules",
+  "description": "A comprehensive dashboard to visualize Resident (PGY-2, PGY-3, PGY-4) rotation schedules, allowing specific date lookups and rotation filtering.",
+  "requestFramePermissions": []
+}
